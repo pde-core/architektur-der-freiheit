@@ -15,15 +15,31 @@ Im alten System war die Exekutive (Behörden, Ämter, Ministerien) ein träger, 
 
 ## 2. Das Nervensystem des Staatsorganismus
 
-Die Core-API verknüpft alle lebenswichtigen Subsysteme der Gesellschaft in einer einzigen, performanten Schleife:
+Die Core-API verknüpft alle lebenswichtigen Subsysteme der Gesellschaft in einer einzigen, performanten Schleife. Da sie die exekutive Logik komplett übernimmt, laufen alle Module synchron über diese Schnittstelle:
 
-[Ökonomische Statik] <---> [  C O R E  ] <---> [Biologischer Schutz]
-(Steuern, NEG, Abgaben)    [  A  P  I  ]       (ICD-Kopplung, Härtefälle)
-^
-|
-v
-[Kryptographischer Schild]
-(Zero-Knowledge-Proofs)
+```text
+       +------------------------------------------------+
+       |                  C O R E  -  A P I             |
+       |          (Das mathematische Nervensystem)      |
+       +-----------------------+------------------------+
+                               |
+       +-----------------------+------------------------+
+       |                                                |
+       v                                                v
++------------------------+                    +------------------------+
+| Modul 1: Ökonomie      |                    | Modul 2: Institutionen |
+| - Steuer/Transfer (NEG)|                    | - Jobcenter-Auflösung  |
+| - KI-Abgabe            |                    | - Med. ICD-Kopplung    |
+| - Mittelstands-Hebel   |                    | - Härtefall-Budgets    |
++------------------------+                    +------------------------+
+       |                                                |
+       +-----------------------+------------------------+
+                               |
+                               v
+       +------------------------------------------------+
+       |          Modul 3: Kryptographischer Schild     |
+       |               (Zero-Knowledge-Proofs)          |
+       +------------------------------------------------+
 
 * **Echtzeit-Verarbeitung:** Während der alte Staat Monate für Steuerbescheide oder Sozialhilfeanträge benötigt, arbeitet die Core-API im Millisekundentakt. Transaktionen, Zuverdienst-Berechnungen und Härtefall-Zuschüsse werden ohne Verzögerung taggenau abgerechnet.
 * **Transaktions-Integrität:** Jede staatliche Interaktion läuft über standardisierte, kryptographisch gesicherte Endpunkte. Korruption, das Verschwinden von Akten oder die manuelle Bevorzugung bestimmter Gruppen sind auf Protokollebene technisch unmöglich.
