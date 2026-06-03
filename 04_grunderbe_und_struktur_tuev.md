@@ -18,19 +18,16 @@ Dieses Grunderbe ist unpfändbar und geschützt vor staatlichem Zugriff. Es ist 
 
 ---
 
-## 2. Die Gerechtigkeitsbrücke: Kein Jahrgang bleibt zurück
+## 2. Die Übergangslogik „Gerechte Brücke“
 
-Das Grunderbe ist kein exklusives Privileg für zukünftige Generationen. Um die jahrzehntelange systemische Auspressung der arbeitenden Bevölkerung im alten System auszugleichen, schlägt die PDE eine gestaffelte, rückwirkende Gerechtigkeitsbrücke vor.
+[span_13](start_span)Das Grunderbe wird ohne neue Kontrollbürokratie vergeben[span_13](end_span). [span_14](start_span)Um den Systemwechsel für bestehende Generationen fair und volkswirtschaftlich stabil zu gestalten, greift die dreistufige Übergangsarchitektur der „Gerechten Brücke“[span_14](end_span):
 
-### 2.1 Die nachholende Ausschüttung
-Alle Bürger, die zum Stichtag der Systemumstellung das 18. Lebensjahr bereits vollendet haben, erhalten das Grunderbe rückwirkend, gekoppelt an ihr Alter. Da eine sofortige Einmalauszahlung an die gesamte Bevölkerung die Wirtschaft überhitzen würde, erfolgt die Bereitstellung gestaffelt über ein **Transformations-Jahrzehnt**:
+* **1. [span_15](start_span)[span_16](start_span)Neuzugänge (ab 18 Jahren):** Erhalten den vollen, ungekürzten Anspruch von 20.000 € direkt mit Erreichen der Volljährigkeit, zweckgebunden für Bildung, Gründung oder Wohneigentum[span_15](end_span)[span_16](end_span).
+* **2. [span_17](start_span)Übergangsgeneration (18 bis 27 Jahre):** Erhält einen rückwirkenden Anspruch über die „Gerechte Brücke“[span_17](end_span). [span_18](start_span)Das Kapital steht flexibel für Re-Qualifizierungen im Zuge der KI-Transformation, zur Entschuldung oder als Eigenkapital für Unternehmensgründungen zur Verfügung[span_18](end_span).
+* **3. [span_19](start_span)Bestandsfälle (ab 28 Jahren):** Erhalten eine sofortige, unbürokratische Tilgungsoption für bestehende Bildungskredite[span_19](end_span). [span_20](start_span)Das System löst hiermit BAföG-Schulden und studienbezogene Darlehen direkt und vollständig ab, um die akademische und handwerkliche Elite sofort spürbar zu entlasten[span_20](end_span).
 
-* **Jahr 1–3:** Aktivierung für die Jahrgänge zwischen 19 und 35 Jahren (Fokus auf Familiengründung, erste Immobilieninvestitionen und berufliche Etablierung).
-* **Jahr 4–7:** Aktivierung für die Jahrgänge zwischen 36 und 50 Jahren (Fokus auf Umschulungen im Zuge der KI-Transformation, Schuldentilgung oder Eigenkapital für den Mittelstand).
-* **Jahr 8–10:** Aktivierung für alle Jahrgänge ab 51 Jahren (Zweckbindung erweitert auf private Altersvorsorge-Strukturierung oder barrierefreien Umbau von Wohneigentum).
+[span_21](start_span)[span_22](start_span)Es findet zu keinem Zeitpunkt eine moralische oder inhaltliche Bewertung der Investition durch ein Prüfungsamt statt[span_21](end_span)[span_22](end_span). [span_23](start_span)Die Validierung nachgeschalteter Institutionen erfolgt vollautomatisch über die Core-API[span_23](end_span).
 
-### 2.2 Die Fairness-Garantie
-Durch die Staffelung wird sichergestellt, dass jeder Bürger im Laufe des Systemwechsels Zugriff auf seine 20.000 € erhält. Die Gerechtigkeitsbrücke verwandelt das Grunderbe von einer jugendfokussierten Utopie in ein gesamtgesellschaftliches Versöhnungsprojekt. Es ist der verdiente Bonus für all jene, die das alte, marode System bis zum Schluss mit ihrer Steuerlast getragen haben.
 
 ---
 
