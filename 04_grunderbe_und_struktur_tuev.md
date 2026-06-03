@@ -6,13 +6,13 @@ Dieses Modul regelt die langfristige Generationengerechtigkeit, den echten Verm�
 
 ## 1. Das staatliche Grunderbe: Startkapital für die Freiheit
 
-[span_3](start_span)Um die strukturelle Ungleichheit bei den Startbedingungen ins Leben radikal zu brechen, führt die PDE das bedingungslose staatliche Grunderbe ein[span_3](end_span).
+Um die strukturelle Ungleichheit bei den Startbedingungen ins Leben radikal zu brechen, führt die PDE das bedingungslose staatliche Grunderbe ein.
 
-* **[span_4](start_span)Die Ausschüttung:** Jeder Staatsbürger erhält mit dem Erreichen der Volljährigkeit (18. Lebensjahr) ein einmaliges, bedingungsloses Startkapital von **20.000 €**[span_4](end_span).
-* **[span_5](start_span)Zweckbindung für die Zukunft:** Dieses Kapital ist an die persönliche Weiterentwicklung gekoppelt, um einen nachhaltigen volkswirtschaftlichen Impuls zu garantieren[span_5](end_span). [span_6](start_span)Es darf ausschließlich investiert werden in[span_6](end_span):
-  * **[span_7](start_span)Bildung und Qualifikation:** Studiengebühren, handwerkliche Meisterbriefe, zertifizierte berufliche Umschulungen oder Existenzgründungs-Kurse[span_7](end_span).
-  * **[span_8](start_span)Unternehmensgründung:** Als Eigenkapitalbasis für das eigene Start-up, Handwerksunternehmen oder die freiberufliche Existenz[span_8](end_span).
-  * **[span_9](start_span)Wohnungseigentum:** Als unkündbares Eigenkapital für den Erwerb von selbstgenutztem Wohnraum, um die Abhängigkeit vom Mietmarkt im Alter strukturell zu senken[span_9](end_span).
+* **Die Ausschüttung:** Jeder Staatsbürger erhält mit dem Erreichen der Volljährigkeit (18. Lebensjahr) ein einmaliges, bedingungsloses Startkapital von **20.000 €**.
+* **Zweckbindung für die Zukunft:** Dieses Kapital ist an die persönliche Weiterentwicklung gekoppelt, um einen nachhaltigen volkswirtschaftlichen Impuls zu garantieren. Es darf ausschließlich investiert werden in:
+  * **Bildung und Qualifikation:** Studiengebühren, handwerkliche Meisterbriefe, zertifizierte berufliche Umschulungen oder Existenzgründungs-Kurse.
+  * **Unternehmensgründung:** Als Eigenkapitalbasis für das eigene Start-up, Handwerksunternehmen oder die freiberufliche Existenz.
+  * **Wohnungseigentum:** Als unkündbares Eigenkapital für den Erwerb von selbstgenutztem Wohnraum, um die Abhängigkeit vom Mietmarkt im Alter strukturell zu senken.
 
 Dieses Grunderbe ist unpfändbar und geschützt vor staatlichem Zugriff. Es ist das Fundament, auf dem die nächste Generation echte wirtschaftliche Unabhängigkeit aufbaut.
 
@@ -20,13 +20,13 @@ Dieses Grunderbe ist unpfändbar und geschützt vor staatlichem Zugriff. Es ist 
 
 ## 2. Die Übergangslogik „Gerechte Brücke“
 
-[span_10](start_span)Das Grunderbe wird ohne neue Kontrollbürokratie vergeben[span_10](end_span). [span_11](start_span)Um den Systemwechsel für bestehende Generationen fair und volkswirtschaftlich stabil zu gestalten, greift die dreistufige Übergangsarchitektur der „Gerechten Brücke“[span_11](end_span):
+Das Grunderbe wird ohne neue Kontrollbürokratie vergeben. Um den Systemwechsel für bestehende Generationen fair und volkswirtschaftlich stabil zu gestalten, greift die dreistufige Übergangsarchitektur der „Gerechten Brücke“:
 
-* **1. [span_12](start_span)Neuzugänge (ab 18 Jahren):** Erhalten den vollen, ungekürzten Anspruch von 20.000 € direkt mit Erreichen der Volljährigkeit, zweckgebunden für Bildung, Gründung oder Wohneigentum[span_12](end_span).
-* **2. [span_13](start_span)Übergangsgeneration (18 bis 27 Jahre):** Erhält einen rückwirkenden Anspruch über die „Gerechte Brücke“[span_13](end_span). [span_14](start_span)Das Kapital steht flexibel für Re-Qualifizierungen im Zuge der KI-Transformation, zur Entschuldung oder als Eigenkapital für Unternehmensgründungen zur Verfügung[span_14](end_span).
-* **3. [span_15](start_span)Bestandsfälle (ab 28 Jahren):** Erhalten eine sofortige, unbürokratische Tilgungsoption für bestehende Bildungskredite[span_15](end_span). [span_16](start_span)Das System löst hiermit BAföG-Schulden und studienbezogene Darlehen direkt und vollständig ab, um die akademische und handwerkliche Elite sofort spürbar zu entlasten[span_16](end_span).
+* **1. Neuzugänge (ab 18 Jahren):** Erhalten den vollen, ungekürzten Anspruch von 20.000 € direkt mit Erreichen der Volljährigkeit, zweckgebunden für Bildung, Gründung oder Wohneigentum.
+* **2. Übergangsgeneration (18 bis 27 Jahre):** Erhält einen rückwirkenden Anspruch über die „Gerechte Brücke“. Das Kapital steht flexibel für Re-Qualifizierungen im Zuge der KI-Transformation, zur Entschuldung oder als Eigenkapital für Unternehmensgründungen zur Verfügung.
+* **3. Bestandsfälle (ab 28 Jahren):** Erhalten eine sofortige, unbürokratische Tilgungsoption für bestehende Bildungskredite. Das System löst hiermit BAföG-Schulden und studienbezogene Darlehen direkt und vollständig ab, um die akademische und handwerkliche Elite sofort spürbar zu entlasten.
 
-[span_17](start_span)Es findet zu keinem Zeitpunkt eine moralische oder inhaltliche Bewertung der Investition durch ein Prüfungsamt statt[span_17](end_span). [span_18](start_span)Die Validierung nachgeschalteter Institutionen erfolgt vollautomatisch über die Core-API[span_18](end_span).
+Es findet zu keinem Zeitpunkt eine moralische oder inhaltliche Bewertung der Investition durch ein Prüfungsamt statt. Die Validierung nachgeschalteter Institutionen erfolgt vollautomatisch über die Core-API.
 
 ---
 
@@ -36,7 +36,7 @@ Der größte Fehler historischer Reformen war, dass der staatliche Wasserkopf na
 
 ### 3.1 Das One-In, Two-Out-Prinzip für Gesetze
 Jedes Gesetz und jede staatliche Verordnung muss fortan einen maschinell messbaren bürokratischen Fußabdruck nachweisen.
-* **Die hie Rule:** Für jedes neue Gesetz, das administrative Arbeit oder Nachweispflichten für den Bürger oder den Mittelstand schafft, müssen **zwei alte Gesetze oder Verordnungen ersatzlos gestrichen werden**.
+* **Die harte Regel:** Für jedes neue Gesetz, das administrative Arbeit oder Nachweispflichten für den Bürger oder den Mittelstand schafft, müssen **zwei alte Gesetze oder Verordnungen ersatzlos gestrichen werden**.
 * Der Staat wird gezwungen, sich permanent selbst zu entschlacken, statt exponentiell zu wuchern.
 
 ### 3.2 Der automatisierte Belastungstest
