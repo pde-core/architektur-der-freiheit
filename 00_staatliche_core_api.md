@@ -40,6 +40,7 @@ Die Core-API verknüpft alle lebenswichtigen Subsysteme der Gesellschaft in eine
        |          Modul 3: Kryptographischer Schild     |
        |               (Zero-Knowledge-Proofs)          |
        +------------------------------------------------+
+```
 
 * **Echtzeit-Verarbeitung:** Während der alte Staat Monate für Steuerbescheide oder Sozialhilfeanträge benötigt, arbeitet die Core-API im Millisekundentakt. Transaktionen, Zuverdienst-Berechnungen und Härtefall-Zuschüsse werden ohne Verzögerung taggenau abgerechnet.
 * **Transaktions-Integrität:** Jede staatliche Interaktion läuft über standardisierte, kryptographisch gesicherte Endpunkte. Korruption, das Verschwinden von Akten oder die manuelle Bevorzugung bestimmter Gruppen sind auf Protokollebene technisch unmöglich.
