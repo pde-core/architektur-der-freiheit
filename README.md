@@ -1,6 +1,6 @@
 # 🏛️ Partei der Ernsthaftigkeit (PDE) – Die Architektur der Freiheit
 
-> **Status:** Definitive Gesamtfassung (V4 – Post-Stresstest-optimiert)  
+> **Status:** Gesamtfassung
 > **Herausgeber:** Konstantin Kabat vel Job 
 > **Stand:** Juni 2026
 
