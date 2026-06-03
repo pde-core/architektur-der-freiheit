@@ -6,10 +6,10 @@ Dieses Modul regelt die langfristige Generationengerechtigkeit, den echten Verm�
 
 ## 1. Das staatliche Grunderbe: Startkapital für die Freiheit
 
-Um die strukturelle Ungleichheit bei den Startbedingungen ins Leben radikal zu brechen, führt die PDE das bedingungslose staatliche Grunderbe ein.
+[span_2](start_span)Um die strukturelle Ungleichheit bei den Startbedingungen ins Leben radikal zu brechen, führt die PDE das bedingungslose staatliche Grunderbe ein[span_2](end_span).
 
-* **Die Ausschüttung:** Jeder Staatsbürger erhält mit dem Erreichen der Volljährigkeit (18. Lebensjahr) ein einmaliges, bedingungsloses Startkapital von **20.000 \euro**.
-* **Zweckbindung für die Zukunft:** Dieses Kapital ist an die persönliche Weiterentwicklung gekoppelt, um einen nachhaltigen volkswirtschaftlichen Impuls zu garantieren. Es darf ausschließlich investiert werden in:
+* **[span_3](start_span)Die Ausschüttung:** Jeder Staatsbürger erhält mit dem Erreichen der Volljährigkeit (18. Lebensjahr) ein einmaliges, bedingungsloses Startkapital von **20.000 €**[span_3](end_span).
+* **Zweckbindung für die Zukunft:** Dieses Kapital ist an die persönliche Weiterentwicklung gekoppelt, um einen nachhaltigen volkswirtschaftlichen Impuls zu garantieren. [span_4](start_span)Es darf ausschließlich investiert werden in[span_4](end_span):
   * **Bildung und Qualifikation:** Studiengebühren, handwerkliche Meisterbriefe, zertifizierte berufliche Umschulungen oder Existenzgründungs-Kurse.
   * **Unternehmensgründung:** Als Eigenkapitalbasis für das eigene Start-up, Handwerksunternehmen oder die freiberufliche Existenz.
   * **Wohnungseigentum:** Als unkündbares Eigenkapital für den Erwerb von selbstgenutztem Wohnraum, um die Abhängigkeit vom Mietmarkt im Alter strukturell zu senken.
@@ -20,14 +20,13 @@ Dieses Grunderbe ist unpfändbar und geschützt vor staatlichem Zugriff. Es ist 
 
 ## 2. Die Übergangslogik „Gerechte Brücke“
 
-[span_13](start_span)Das Grunderbe wird ohne neue Kontrollbürokratie vergeben[span_13](end_span). [span_14](start_span)Um den Systemwechsel für bestehende Generationen fair und volkswirtschaftlich stabil zu gestalten, greift die dreistufige Übergangsarchitektur der „Gerechten Brücke“[span_14](end_span):
+[span_5](start_span)Das Grunderbe wird ohne neue Kontrollbürokratie vergeben[span_5](end_span). [span_6](start_span)Um den Systemwechsel für bestehende Generationen fair und volkswirtschaftlich stabil zu gestalten, greift die dreistufige Übergangsarchitektur der „Gerechten Brücke“[span_6](end_span):
 
-* **1. [span_15](start_span)[span_16](start_span)Neuzugänge (ab 18 Jahren):** Erhalten den vollen, ungekürzten Anspruch von 20.000 € direkt mit Erreichen der Volljährigkeit, zweckgebunden für Bildung, Gründung oder Wohneigentum[span_15](end_span)[span_16](end_span).
-* **2. [span_17](start_span)Übergangsgeneration (18 bis 27 Jahre):** Erhält einen rückwirkenden Anspruch über die „Gerechte Brücke“[span_17](end_span). [span_18](start_span)Das Kapital steht flexibel für Re-Qualifizierungen im Zuge der KI-Transformation, zur Entschuldung oder als Eigenkapital für Unternehmensgründungen zur Verfügung[span_18](end_span).
-* **3. [span_19](start_span)Bestandsfälle (ab 28 Jahren):** Erhalten eine sofortige, unbürokratische Tilgungsoption für bestehende Bildungskredite[span_19](end_span). [span_20](start_span)Das System löst hiermit BAföG-Schulden und studienbezogene Darlehen direkt und vollständig ab, um die akademische und handwerkliche Elite sofort spürbar zu entlasten[span_20](end_span).
+* **1. [span_7](start_span)Neuzugänge (ab 18 Jahren):** Erhalten den vollen, ungekürzten Anspruch von 20.000 € direkt mit Erreichen der Volljährigkeit, zweckgebunden für Bildung, Gründung oder Wohneigentum[span_7](end_span).
+* **2. Übergangsgeneration (18 bis 27 Jahre):** Erhält einen rückwirkenden Anspruch über die „Gerechte Brücke“. [span_8](start_span)Das Kapital steht flexibel für Re-Qualifizierungen im Zuge der KI-Transformation, zur Entschuldung oder als Eigenkapital für Unternehmensgründungen zur Verfügung[span_8](end_span).
+* **3. Bestandsfälle (ab 28 Jahren):** Erhalten eine sofortige, unbürokratische Tilgungsoption für bestehende Bildungskredite. [span_9](start_span)Das System löst hiermit BAföG-Schulden und studienbezogene Darlehen direkt und vollständig ab, um die akademische und handwerkliche Elite sofort spürbar zu entlasten[span_9](end_span).
 
-[span_21](start_span)[span_22](start_span)Es findet zu keinem Zeitpunkt eine moralische oder inhaltliche Bewertung der Investition durch ein Prüfungsamt statt[span_21](end_span)[span_22](end_span). [span_23](start_span)Die Validierung nachgeschalteter Institutionen erfolgt vollautomatisch über die Core-API[span_23](end_span).
-
+[span_10](start_span)Es findet zu keinem Zeitpunkt eine moralische oder inhaltliche Bewertung der Investition durch ein Prüfungsamt statt[span_10](end_span). [span_11](start_span)Die Validierung nachgeschalteter Institutionen erfolgt vollautomatisch über die Core-API[span_11](end_span).
 
 ---
 
