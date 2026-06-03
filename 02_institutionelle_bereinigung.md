@@ -34,4 +34,4 @@ Alle verbliebenen staatlichen Interaktionen werden über eine einzige, zentrale 
 
 * Jegliche Interaktion (Zahlungsausgang der NEG, Steuereingang, Härtefall-Zuschuss) läuft als automatisierte, digitale Schleife.
 * Der Staat benötigt keine dezentralen Behördenfestungen mehr. Die Verwaltung schrumpft auf den Betrieb einer sicheren, transparenten und hochperformanten digitalen Infrastruktur.
-* 
+
