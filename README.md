@@ -55,6 +55,6 @@ Das Betriebssystem ist in acht aufeinander aufbauende, logische Sektoren unterte
 ---
 
 ## Status der Architektur
-Die hier vorliegenden Dokumente bilden das theoretische und funktale Fundament der PDE. Sie sind stabil, mathematisch verifiziert und bereit für die gesellschaftliche Implementierung. 
+Die hier vorliegenden Dokumente bilden das theoretische und funktionale Fundament der PDE. Sie sind stabil, mathematisch verifiziert und bereit für die gesellschaftliche Implementierung. 
 
 *Die Technik ist der Diener, das Fundament ist die Ernsthaftigkeit.*
