@@ -2,7 +2,7 @@
 
 Herzlich willkommen im offiziellen Repository der **Partei der Ernsthaftigkeit (PDE)**. 
 
-Dieses Repository enthält die funktionale, modulare Spezifikation unseres Grundsatzprogramms (Version V4 - Post-Stresstest-optimiert). Wir betrachten Politik nicht als ideologischen Selbstzweck, sondern als Systemarchitektur. Das Ziel ist die vollständige technische Ersetzung des trägen, fehleranfälligen und bürokratischen Staatsapparats durch eine unbestechliche, automatisierte digitale Infrastruktur.
+Dieses Repository enthält die funktionale, modulare Spezifikation unseres Grundsatzprogramms. Wir betrachten Politik nicht als ideologischen Selbstzweck, sondern als Systemarchitektur. Das Ziel ist die vollständige technische Ersetzung des trägen, fehleranfälligen und bürokratischen Staatsapparats durch eine unbestechliche, automatisierte digitale Infrastruktur.
 
 ---
 
